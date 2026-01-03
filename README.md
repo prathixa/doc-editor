@@ -24,3 +24,4 @@ Tech Stack Used:
 - Live Collaboration: Changes reflect instantly across all sessions.
 - Persistence: Documents are saved and retrieved from MongoDB.
 - Clean UI: Responsive design with a professional document layout.
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/41088453-57f3-4267-9c89-cf5d9ef84502" />
